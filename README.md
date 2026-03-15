@@ -4,6 +4,7 @@ This repository contains SQL-based data analysis projects focused on extracting 
 
 Projects:
 1. Pizza Sales Analysis
+2. View Project](./pizza_sales_analysis)
    - Demand patterns
    - Revenue analysis
    - Menu performance
